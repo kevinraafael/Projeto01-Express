@@ -1,0 +1,31 @@
+/Versao front
+//tela de login
+//tela de lsitagem de usuarios . onde poderemos editar , remover e adicionar
+//crud - atualizacao insercao. Create , read e update
+
+//usaremos fake API
+//Versao back
+//testaremos pelo postmane se insomania e tabela sera feita pelo postamne
+//CloseEvent,edit,comit , push e comitt para versionar comandos que usamos no git se formos versionar o trabalho
+//como funciona uma rota , o que é uma rota
+//next ou xpress  framework
+
+/*como criar um servidor xpress
+como criar uma rota no xpress
+o que sao os verbos httpp get , delete,post criar , push atualizar - vamos usar no postman ou nas operacos com o banco*/
+
+/*
+Como funciona :
+Temos um usuário ele precisa acessar o site 
+Dessa forma usando o email e senha como entrada. Após preencher os dados , o sistema manda uma requisição
+para o servidor , o servidor busca no banco de dados e retorna caso tenha encontrado se ele existe ou não.
+Se existir mandamos para a tela do site.
+
+a Autenticação de usuários
+
+1 - Construir a API  , unsando a API precisaremos instalar nossas dependencias e o processo de rota
+no vídeo o rapaz usa um tal de KOA. Porém , nós precisamos criar um no xpress 
+
+
+
+*/

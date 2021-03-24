@@ -1,0 +1,21 @@
+{
+  "name": "node-server-express",
+  "version": "1.0.0",
+  "description": "Servidor feito com express para poder ser utilizado no processe de autenticaçao de usuarios",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/kevinraafael/Projeto01-Express"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Kevin Rafael",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
